@@ -3,12 +3,12 @@
 Student at the Department of Digital Design and Technologies (Computer Science Track).
 
 ### 🛠 Technical Skills
-* **Programming Languages:** Python, C, C++, Assembly (x86 / emu8086) 💻
+* **Programming Languages:** Python, C, C++, Assembly (x86 / emu8086),Matlab 💻
 * **Scientific Computing:** Matlab, Octave 📊
 * **Interests:** Software Engineering, Software Development 🏗️
 
 ### 🚀 Projects (Python)
-* **Pong:** Graphical implementation focusing on collision logic and real-time movement 🎮
+* **Weather:** Real-time weather dashboard with a 5-day forecast, featuring a sleek dark UI and automated data fetching via OpenWeatherMap API.🌥️
 * **Battle Simulator:** Terminal-based application utilizing complex logic flow ⚔️
 * **Blackjack:** Logic-based card game developed for the terminal 🃏
 * **Guess the Number:** Implementation of algorithmic flow and user input control 🔢
