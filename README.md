@@ -4,7 +4,7 @@ Student at the Department of Digital Design and Technologies (Computer Science T
 
 ### 🛠 Technical Skills
 * **Programming Languages:** Python, C, C++, Assembly (x86 / emu8086),Matlab 💻
-* **Interests:** Full Stack Development 🏗️
+* **Interests:** Full Stack Development 🌐
 
 ### 🚀 Projects (Python)
 * **Weather:** Real-time weather dashboard with a 5-day forecast, featuring a sleek dark UI and automated data fetching via OpenWeatherMap API.🌥️
